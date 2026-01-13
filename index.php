@@ -1377,9 +1377,9 @@ $page_keywords = 'best dermatologist in delhi, skin specialist delhi, semi perma
                 </div>
 
                 <!-- Clinic Tour Video -->
-                <div class="gallery-item" data-type="video" data-src="./assets/images/gallery/8.mp4" data-title="Clinic Tour" data-description="Take a virtual tour of our modern facilities">
+                <div class="gallery-item" data-type="video" data-src="./assets/images/gallery/7.mp4" data-title="Clinic Tour" data-description="Take a virtual tour of our modern facilities">
                     <video muted>
-                        <source src="./assets/images/gallery/8.mp4" type="video/mp4">
+                        <source src="./assets/images/gallery/7.mp4" type="video/mp4">
                     </video>
                     <div class="overlay">
                         <div class="play-btn">
@@ -1389,8 +1389,8 @@ $page_keywords = 'best dermatologist in delhi, skin specialist delhi, semi perma
                     <span class="item-type">Video</span>
                 </div>
 
-                <div class="gallery-item" data-type="image" data-src="./assets/images/gallery/6.png" data-title="Advanced Equipment" data-description="State-of-the-art medical equipment">
-                    <img src="./assets/images/gallery/6.png" alt="Medical Equipment">
+                <div class="gallery-item" data-type="image" data-src="./assets/images/gallery/6.jpeg" data-title="Advanced Equipment" data-description="State-of-the-art medical equipment">
+                    <img src="./assets/images/gallery/6.jpeg" alt="Medical Equipment">
                     <div class="overlay">
                         <div class="zoom-btn">
                             <i class="bi bi-zoom-in"></i>

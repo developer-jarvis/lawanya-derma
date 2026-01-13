@@ -75,8 +75,7 @@
                         </a>
                     </li>
 
-                    
-
+                
                     <li class="nav-item">
                         <a class="nav-link" href="#gallery">
                             <i class="bi bi-images me-1"></i>Gallery
@@ -103,7 +102,7 @@
                 </ul>
             </div>
         </div>
-         <!-- WhatsApp & Call (Visible only on md and below, below the navbar) -->
+         
         <div class="d-lg-none d-flex align-items-center justify-content-center gap-2 px-2 pt-2 mx-auto mb-1">
             <a href="https://wa.me/917042179159" class="btn btn-primary btn-sm" target="_blank">
                 <i class="bi bi-whatsapp"></i> WhatsApp
